@@ -45,6 +45,8 @@ URL Final: `https://api.sienge.com.br/minhaempresa/public/api/v1/examples`
 
 ## Como será feita a extração e consulta dos dados
 
-Iremos criar fluxos de dados dentro do Workspace no serviço do Power Bi que irá armazenas os dados que serão extraídos das APIs acima citadas.
+A consulta e extração dos dados serão realizados utilizando o recurso de fluxo de dados do Power BI tanto para extrair os dados do Sienge e do Construtor de vendas. Sendo que ambos os sistemas possuem metodologia distintas para a conexão em suas bases de dados.
 
-https://learn.microsoft.com/pt-br/power-bi/transform-model/dataflows/dataflows-create#create-a-dataflow-by-using-linked-tables
+* [Criação de Fluxo de Dados com Tabela Vinculada](fluxo-de-dados.md)
+
+# EM BREVE MAIS ATUALIZAÇÕES
