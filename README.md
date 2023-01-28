@@ -48,5 +48,6 @@ URL Final: `https://api.sienge.com.br/minhaempresa/public/api/v1/examples`
 A consulta e extração dos dados serão realizados utilizando o recurso de fluxo de dados do Power BI tanto para extrair os dados do Sienge e do Construtor de vendas. Sendo que ambos os sistemas possuem metodologia distintas para a conexão em suas bases de dados.
 
 * [Criação de Fluxo de Dados com Tabela Vinculada](fluxo-de-dados.md)
+* [Consumindo um Fluxo de Dados](https://learn.microsoft.com/pt-br/power-bi/transform-model/dataflows/dataflows-configure-consume#consuming-a-dataflow)
 
 # EM BREVE MAIS ATUALIZAÇÕES
